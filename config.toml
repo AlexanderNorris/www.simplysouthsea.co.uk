@@ -1,7 +1,7 @@
 # default config
 baseurl = "https://www.simplysouthsea.co.uk/"
 languageCode = "en-us"
-title = "Simply Southsea | A Southsea Blog"
+title = "Simply Southsea | A Local Portsmouth Blog"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
@@ -49,20 +49,9 @@ link = "plugins/search/search.js"
 
 # navigation
 [[menu.main]]
-name = "Homepage"
-url = ""
+name = "Home"
+url = "/"
 weight = 1
-hasChildren = true
-
-[[menu.main]]
-parent = "Homepage"
-name = "Homepage 1"
-url = "homepage/home-1/"
-
-[[menu.main]]
-parent = "Homepage"
-name = "Homepage 2"
-url = "homepage/home-2/"
 
 [[menu.main]]
 name = "About"
@@ -76,7 +65,7 @@ weight = 3
 
 # deult parameter
 [params]
-logo = "images/logo.png"
+logo = "images/log.png"
 home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
@@ -91,8 +80,7 @@ author = "Alexander Norris"
 author_image = "images/banner-img.png"
 bio = "I’m a Software Developer living in Southsea. Sharing with you my favourite parts of living in Southsea."
 # Contact info
-mobile = "+90 000 333 22"
-email = "exmaple@ymail.com"
+email = "Alex@example.com"
 address = "Southsea <3"
 # Contact Form Action
 contact_form_action = "#"

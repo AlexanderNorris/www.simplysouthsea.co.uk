@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Simply Southsea | A Southsea Blog</title>
+    <title>Simply Southsea | A Local Portsmouth Blog</title>
     <link>https://www.simplysouthsea.co.uk/</link>
-    <description>Recent content on Simply Southsea | A Southsea Blog</description>
+    <description>Recent content on Simply Southsea | A Local Portsmouth Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://www.simplysouthsea.co.uk/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
       <guid>https://www.simplysouthsea.co.uk/about/</guid>
-      <description>Hello, I’m John Doe Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product.</description>
+      <description>Hello, I&amp;rsquo;m Alex Having moved to Southsea back in December 2018 right opposite the common we fell in love with the town.</description>
     </item>
     
     <item>
@@ -175,7 +175,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.simplysouthsea.co.uk/contact/</guid>
-      <description>Strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream and, as I lie close to the earth, a thousand unknown plants are noticed by me.</description>
+      <description>If you&amp;rsquo;re looking to get in touch with us, drop us an email :-)</description>
     </item>
     
     <item>
@@ -184,15 +184,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.simplysouthsea.co.uk/homepage/home-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Homepage 2</title>
-      <link>https://www.simplysouthsea.co.uk/homepage/home-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.simplysouthsea.co.uk/homepage/home-2/</guid>
       <description></description>
     </item>
     
