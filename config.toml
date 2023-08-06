@@ -2,7 +2,7 @@
 baseurl = "https://www.simplysouthsea.co.uk/"
 languageCode = "en-us"
 title = "Simply Southsea | A Local Portsmouth Blog"
-theme = "parsa-hugo"
+theme = ""
 summaryLength = "10"
 paginate = 6
 # google analytics
