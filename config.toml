@@ -65,7 +65,7 @@ weight = 3
 
 # deult parameter
 [params]
-logo = "images/log.png"
+logo = "images/logo.png"
 home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
@@ -80,8 +80,8 @@ author = "Alexander Norris"
 author_image = "images/banner-img.png"
 bio = "I’m a Software Developer living in Southsea. Sharing with you my favourite parts of living in Southsea."
 # Contact info
-email = "Alex@example.com"
-address = "Southsea <3"
+email = "Alex.Norris@"
+address = "Southsea ♥"
 # Contact Form Action
 contact_form_action = "#"
 # copyright
